@@ -18,6 +18,18 @@ A simple yet powerful iOS Natural Language Processing app built with SwiftUI and
   - 将文本分解成单词
   - Breaks text into individual words
 
+- 命名实体识别 / Named Entity Recognition
+  - 识别人名、地名、组织名称等
+  - Identifies names, places, organizations, etc.
+
+- 词性标注 / Part-of-Speech Tagging
+  - 识别单词的词性（名词、动词、形容词等）
+  - Identifies word types (nouns, verbs, adjectives, etc.)
+
+- 文本分类 / Text Classification
+  - 基于关键词的文本分类
+  - Keyword-based text classification
+
 - 示例文本 / Sample Texts
   - 提供中英文示例文本
   - Includes both Chinese and English sample texts
@@ -38,6 +50,15 @@ A simple yet powerful iOS Natural Language Processing app built with SwiftUI and
 
 3. 或者点击"使用示例"按钮快速测试
    Or click "Use Sample" button for quick testing
+
+4. 查看分析结果：
+   View analysis results:
+   - 情感分析结果 / Sentiment analysis
+   - 语言检测结果 / Language detection
+   - 分词结果 / Tokenization results
+   - 命名实体识别结果 / Named entity recognition
+   - 词性标注结果 / Part-of-speech tagging
+   - 文本分类结果 / Text classification
 
 ## 系统要求 / System Requirements
 
